@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+        "name": "Pytorch",
+        "icon": "https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000"
+    },
+    {
+        "name": "Artificial Intelligence",
+        "icon": "https://img.icons8.com/?size=100&id=117008&format=png&color=000000"
+    },
+    {
+        "name": "Generative AI",
+        "icon": "https://img.icons8.com/?size=100&id=LoPeMbYQidFV&format=png&color=000000"
+    },
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/?size=100&id=IM1zmzuzvwiu&format=png&color=000000"
+    },
+    {
+        "name": "Computer Vision",
+        "icon": "https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000"
+    },
+    {
+        "name": "RAG",
+        "icon": "https://img.icons8.com/?size=100&id=PdnsYAigSc77&format=png&color=000000"
+    },
+    {
+        "name": "NLP",
+        "icon": "https://img.icons8.com/?size=100&id=AaTQt8cgszIU&format=png&color=000000"
+    },
+    {
+        "name": "Transformers",
+        "icon": "https://img.icons8.com/?size=100&id=68116&format=png&color=000000"
+    },
+    {
+        "name": "Vector DB",
+        "icon": "https://img.icons8.com/?size=100&id=111400&format=png&color=000000"
+    },
+    {
+        "name": "Flask",
+        "icon": "https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000"
+    },
+    {
+        "name": "Llama-Index",
+        "icon": "https://img.icons8.com/?size=100&id=FhQZQ8624eLf&format=png&color=000000"
+    },
+    {
+        "name": "Data Visualization",
+        "icon": "https://img.icons8.com/?size=100&id=RjNMJdCSJoes&format=png&color=000000"
+    },
+    {
+        "name": "Predictive Modeling",
+        "icon": "https://img.icons8.com/?size=100&id=7MIH0YJYZpXD&format=png&color=000000"
+    },
+    
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+     
+]

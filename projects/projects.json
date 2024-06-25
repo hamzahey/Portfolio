@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Fine-tuning Falcon 7b",
+    "desc": "By leveraging the PEFT library and QLoRA for memory-efficient fine-tuning, we aim to generate responses that mimic Trump's speech patterns",
+    "image": "composey",
+    "category": "chatbot",
+    "links": {
+      "code": "https://github.com/hamzahey/Fine_Tuning_Falcon7b_on_Donald_Trump_speeches"
+    }
+  },
+  {
+    "name": "Rag Application",
+    "desc": "This project implements a conversational AI model using Hugging Face Embeddings and the Groq Mixtral model using Casandra Based Vector Store. ",
+    "image": "rag",
+    "category": "rag",
+    "links": {
+      "code": "https://github.com/hamzahey/Rag-Application-with-Open-source-embeddings-and-Groq-Mixtral-Model-with-Casandra-based-Vector-Store"
+    }
+  },
+  {
+    "name": "Music Generator",
+    "desc": "This project utilizes LSTM model that predicts/generates music based on the initial notes of time series",
+    "image": "music",
+    "category": "Sequence Models",
+    "links": {
+      
+      "code": "https://github.com/hamzahey/LSTM_Music_Generator"
+    }
+  },
+  {
+    "name": "Real Time Lane Detection System",
+    "desc": "A digital Image Processing project detecting lanes in live video feeds. Utilizes OpenCV & Python for accurate lane identification.",
+    "image": "lane",
+    "category": "Computer Vision",
+    "links": {
+
+      "code": "https://github.com/hamzahey/Lane_Detection_System_App"
+    }
+  },
+  {
+    "name": "Neural Machine Translation",
+    "desc": "Swedish to English Neural Machine Translation with PyTorch",
+    "image": "translation",
+    "category": "Neural Machine Translation",
+    "links": {
+      "code": "https://github.com/hamzahey/Neural-Machine-Translation-from-Swedish-to-English"
+    }
+  },
+  {
+    "name": "Object Detection",
+    "desc": "This project focuses on object detection using YOLOv5 and YOLOv8 models trained on the Vehicle-OpenImages dataset.",
+    "image": "detection",
+    "category": "Object Detection",
+    "links": {
+
+      "code": "https://github.com/hamzahey/Object-Detection-with-YOLO8-and-YOLO5"
+    }
+  }
+  
+]
